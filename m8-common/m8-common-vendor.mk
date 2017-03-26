@@ -118,6 +118,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8-common/proprietary/lib/libcamera_awb.so:system/lib/libcamera_awb.so \
     vendor/htc/m8-common/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
     vendor/htc/m8-common/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
+    vendor/htc/m8-common/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/htc/m8-common/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/htc/m8-common/proprietary/lib/libhtccamera_yushaniiproc.so:system/lib/libhtccamera_yushaniiproc.so \
     vendor/htc/m8-common/proprietary/lib/libhtc_depthmap.so:system/lib/libhtc_depthmap.so \
